@@ -1,0 +1,1 @@
+# weechat.ban-evasion-detection
