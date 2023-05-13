@@ -1,4 +1,4 @@
-# weechat.ban-evasion-detection
+# Ban-evasion handling
 A tool for detecting and preventing ban evasion on an IRC channel.
 
 ## Here's how it works:
